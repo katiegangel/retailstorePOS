@@ -1,1 +1,11 @@
-<Header> Build Ability </header> 
+<html>
+  <center><h1 id="heading"> <b>BuildAbility Target Store</b></h1>
+    
+    <div id="buttons">
+  <button id="tab1"><a href="produce.html"><b>Produce</b><<img src= "images/healthy.png" alt="picture of fruits and vegetables"></a> </button>
+  <button id="tab2"><b>Clothing</b> <img src="images/clothing.png" alt="drawing of shirt and pants"></button>
+      <button id="tab3"><b>Grocery</b><img src="images/groceries.png" alt="Picture of grocery bag"></button></center>
+  
+  
+  
+  </html> 
