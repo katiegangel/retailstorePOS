@@ -1,0 +1,56 @@
+
+.tab1, .tab2,.tab3 {
+    background-color:red;
+    border-color:white;
+    border-radius: 20px;
+    height: 500px;
+    width:500px;
+    font-size: 30px;
+    margin: 10px;
+   
+  }
+  #heading{
+    font-family: sans-serif;
+  }
+  .healthy{
+    padding:10px;
+    max-height: 300px;
+    margin: 30px;
+  }
+  .clothes {
+    padding: 10px;
+    max-height: 300px;
+    margin: 30px;
+  }
+  .groceries{
+    padding:10px;
+    max-height: 400px;
+    margin: 30px;
+  
+    #header{
+      font-family: sans-serif;
+      font-size: 30px;
+    }
+     
+    
+    .button{
+    border-radius:40px;
+      border-width:5px;
+      border-color:black;
+    background-color:white;
+      margin:15px;
+      padding:10px;
+      
+      
+    }
+    .button:hover
+    {opacity:0.6}
+    
+    button:active {
+      background: #bababa;
+      -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
+         -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
+              box-shadow: inset 0px 0px 5px #c1c1c1;
+       
+    }
+    
